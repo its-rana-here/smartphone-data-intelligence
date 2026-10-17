@@ -1,6 +1,6 @@
 
 LOAD DATA LOCAL INFILE
-'C:/Users/Sujit/Desktop/Machine Learning/AI/Project/smartphone-data-intelligence/data/processed/smartphones_cleaned.csv'
+'smartphone-data-intelligence/data/processed/smartphones_cleaned.csv'
 INTO TABLE smartphones
 FIELDS TERMINATED BY ','
 OPTIONALLY ENCLOSED BY '"'

@@ -1,6 +1,4 @@
-
 import pandas as pd
-import mysql.connector
 
 # Read the CSV
 csv_path = (
